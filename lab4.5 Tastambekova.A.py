@@ -1,0 +1,6 @@
+person_info = ("John", 30, "Male")
+book_info = ("The Great Gatsby", "F. Scott Fitzgerald", 1925)
+person_tuple = tuple(person_info)
+book_tuple = tuple(book_info)
+print("Person Tuple:", person_tuple)
+print("Book Tuple:", book_tuple)
